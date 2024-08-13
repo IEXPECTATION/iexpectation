@@ -1,3 +1,4 @@
 # Project list
 
-**TBD**
+- [ ] wisp (SSG, Static Site Generator)
+- [ ] youthos (YouthOS, Operator System)
