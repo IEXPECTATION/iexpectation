@@ -21,7 +21,13 @@
 
 # 个人项目
 
-TBD
+* linear-regression (线性回归)
+
+   本项目为开源学习项目。使用了的是 Python 编写。项目使用正态分布生成了一些随机数据。通过 numpy 提供的 ndarray，便捷地计算出权重和偏差的梯度。并更新新的权重和偏差。最后使用 matplotlib 将数据以图片的形式输出。
+
+* Raycasting (光线投射)
+         
+   本项目为开源学习项目。本项目使用了浏览器的 Canvas API 显示画面，光线透视逻辑使用 Typescript 编写。如人物的移动，视角的转动。发射光线和光线的碰撞。RayCasting 的原理是在视点发射多条光线，并检测光线碰撞。根据与墙体的距离，画出墙体。开源地址：<https://github.com/iexpectation/Raycasting>
 
 # 工作经历
 
