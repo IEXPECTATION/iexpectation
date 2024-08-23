@@ -9,6 +9,16 @@
 - Email：wuch2023@qq.com
 - 手机/微信：+86-18154585061
 
+# 个人项目
+
+* linear-regression (线性回归)
+
+   本项目为开源学习项目。使用了的是 Python 编写。项目使用正态分布生成了一些随机数据。通过 numpy 提供的 ndarray，便捷地计算出权重和偏差的梯度。并更新新的权重和偏差。最后使用 matplotlib 将数据以图片的形式输出。<https://github.com/iexpectation/linear-regression>
+
+* Raycasting (光线投射)
+         
+   本项目为开源学习项目。本项目使用了浏览器的 Canvas API 显示画面，光线透视逻辑使用 Typescript 编写。如人物的移动，视角的转动。发射光线和光线的碰撞。RayCasting 的原理是在视点发射多条光线，并检测光线碰撞。根据与墙体的距离，画出墙体。开源地址：<https://github.com/iexpectation/Raycasting>
+
 # 技术清单
 
 - 熟悉C/C++编程语言。了解现代 C++ 诸多特性。例如，类型推导(auto)、内存管理（RAII、智能指针）、右值引用(&&)、移动语义(std::move)、匿名函数(Lambda 表达式)等。
@@ -16,18 +26,8 @@
 - 熟悉常见的数据结构与算法。
 - 熟悉 Git 版本管理软件。例如添加、提交、推送和拉去。
 - 了解现代 Cmake 编译工具。例如构建指令与测试指令。
-- 热爱编程，对底层软件感兴趣。例如，编译器、操作系统（内核）和浏览器。
+- 热爱编程，对底层软件感兴趣。例如，编译器、操作系统（内核）和图形学。
 - 证书：软件设计师
-
-# 个人项目
-
-* linear-regression (线性回归)
-
-   本项目为开源学习项目。使用了的是 Python 编写。项目使用正态分布生成了一些随机数据。通过 numpy 提供的 ndarray，便捷地计算出权重和偏差的梯度。并更新新的权重和偏差。最后使用 matplotlib 将数据以图片的形式输出。
-
-* Raycasting (光线投射)
-         
-   本项目为开源学习项目。本项目使用了浏览器的 Canvas API 显示画面，光线透视逻辑使用 Typescript 编写。如人物的移动，视角的转动。发射光线和光线的碰撞。RayCasting 的原理是在视点发射多条光线，并检测光线碰撞。根据与墙体的距离，画出墙体。开源地址：<https://github.com/iexpectation/Raycasting>
 
 # 工作经历
 
