@@ -20,3 +20,17 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C/C++, Rust, OpenGL.
 - 📫 How to reach me: 1120644453@qq.com | wuchx19@gmail.com.
 - 📢 I’m currently looking forward to a challenging job.
+
+The following are my ongoning projects:
+
+
+- [x] [Ray casting (光线投射)](https://github.com/IEXPECTATION/Raycasting)
+- [x] [linear regression (线性回归)](https://github.com/IEXPECTATION/linear-regression)
+- [ ] nfa (非确定有限状态自动机)
+- [ ] dwb (dynamic white board; 动态白板; OpenGL & Animation; 类似 manim)
+- [ ] dfa (确定有限状态自动机)
+- [ ] Http server (HTTP 服务器)
+- [ ] LL1 (LL1 语法解析)
+- [ ] Automatic Differentiation（自动微分）
+- [ ] wisp (SSG, Static Site Generator)
+- [ ] youthos (YouthOS, Operator System)
