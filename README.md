@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **IEXPECTATION/iexpectation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 - ✨ My name is wuch (wucheng, 吴呈).
 - 🔭 I’m currently working at WuXI, Jiangsu.
 - 🌱 I’m currently learning C/C++, Rust, OpenGL.
-- 📫 How to reach me: 1120644453@qq.com | wuchx19@gmail.com.
+- 📫 How to reach me: <1120644453@qq.com> | <wuchx19@gmail.com>.
 - 📢 I’m currently looking forward to a challenging job.
 
 The following are my ongoning projects:
-
 
 - [x] [Ray casting (光线投射)](https://github.com/IEXPECTATION/Raycasting)
 - [x] [linear regression (线性回归)](https://github.com/IEXPECTATION/linear-regression)

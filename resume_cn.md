@@ -2,25 +2,25 @@
 
 - 姓名：吴呈
 - 性别: 男
-- 年龄：23
-- 学历：本科
-- 专业：软件工程
+- 年龄: 24
+- 学历: 本科
+- 专业: 软件工程
 - 毕业院校：桂林电子科技大学信息科技学院
-- Email：wuch2023@qq.com
-- 手机/微信：+86-18154585061
+- Email: <wuch2023@qq.com>
+- 手机/微信: +86-18154585061
+- Github: <https://github.com/iexpectation>
 
-# 个人项目
+## 个人项目
 
-* [linear-regression (线性回归)](https://github.com/iexpectation/linear-regression)
+- [linear-regression (线性回归)](https://github.com/iexpectation/linear-regression)
 
   本项目为开源学习项目。使用了的是 Python 编写。项目使用正态分布生成了一些随机数据。通过 numpy 提供的 ndarray，便捷地计算出权重和偏差的梯度。并更新新的权重和偏差。最后使用 matplotlib 将数据以图片的形式输出。
 
-* [Raycasting (光线投射)](https://github.com/iexpectation/Raycasting)
+- [Raycasting (光线投射)](https://github.com/iexpectation/Raycasting)
 
-  本项目为开源学习项目。本项目使用了浏览器的 Canvas API 显示画面，光线透视逻辑使用 Typescript 编写。如人物的移动，视角的转动。发射光线和光线的碰撞。RayCasting 的原理是在视点发射多条光线，并检测光线是否发生碰撞。根据与碰撞物体的距离，画出物体。
+  本项目为开源学习项目。本项目利用了浏览器的 Canvas API 来渲染物体，如墙壁。主要开发语言为 Typescript。本项目实现了人物的移动，以及通过光线投射实现的障碍物渲染。
 
-
-# 技术清单
+## 技术清单
 
 - 熟悉C/C++编程语言。了解现代 C++ 诸多特性。例如，类型推导(auto)、内存管理（RAII、智能指针）、右值引用(&&)、移动语义(std::move)、匿名函数(Lambda 表达式)等。
 - 熟悉诸多其他编程语言。例如，Python、C#、Java、Go、Js/Ts、Rust 等。
@@ -30,18 +30,20 @@
 - 热爱编程，对底层软件感兴趣。例如，编译器、操作系统（内核）和图形学。
 - 证书：软件设计师
 
-# 工作经历
+## 工作经历
 
-**无锡卓云智能有限责任公司 2022.6 ~ 至今**
+### 无锡卓云智能有限责任公司 2022.6 ~ 至今
 
-**Bootload 刷写工具**
+### 工作项目
+
+1. Bootload 刷写工具
 
 Bootload 刷写工具是使用第三方 CAN 通讯设备，例如使用了 Vector 的 CanCaseXL、VN1640 或 PCan 等设备。  通过 Can 等通讯协议将 Bootload 刷入到控制器中。该工具使用 C# + Winform 编写。在开始编写 C# 代码时，因为需要控制多种设备或者兼容未来可能需要的设备。我抽象出一个设备类用于提供统一的接口。在启动刷写功能时，为了避免 UI 卡死，刷写功能将在新的线程中执行。而 Winform 则是一个适用于需求简单的 UI 框架。
 
-**自动测试平台配套软件**
+2. 自动测试平台配套软件
 
 自动测试平台配套软件是自动测试平台（箱）的 Demo 软件。通过该 Demo 软件可以使用 UI 的方式来控制自动测试平台对应通道输入输出的数值。该 Demo 同样使用 C# + Winform 组合。该 Demo 拥有多个硬件通道需要读写，与 Bootload 刷写工具相比较为复杂。在多个通道需要循环读写时，则需要更多的并行。在实现该 Demo 时，我了解 C# 的异步函数，也了解 UI 控件与类之间相互 Bind 的重要性。
 
-**测试脚本生成**
+3. 测试脚本生成**
 
 根据客户提供的 Excel 表格，识别表格中的信息。根据这些信息制作自动化的测试脚本。语言上使用的是 Python，测试脚本为 Capl。在读取这些表格时，我使用了 Pandas 来分析表格中的字段，并根据表格中的字段生成对应的测试步骤。而生成脚本则是使用了 Python 内置的文件接口。
