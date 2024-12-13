@@ -10,7 +10,7 @@
 - Email: <wuch2023@qq.com>
 - 手机/微信: +86-18154585061
 
-## 技术清单
+## 技能清单
 
 - 熟悉使用 HTML，CSS，JS/TS 等前端编程语言。
 - 熟悉使用 Vuejs 生态。包括 Vue，Vue Router 和 Pinia。
