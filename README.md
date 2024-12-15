@@ -25,7 +25,7 @@ The following are my ongoning projects:
 
 - [x] [Ray casting (光线投射)](https://github.com/IEXPECTATION/Raycasting)
 - [x] [linear regression (线性回归)](https://github.com/IEXPECTATION/linear-regression)
-- [ ] nfa (非确定有限状态自动机)
+- [x] [nfa (非确定有限状态自动机)](https://github.com/IEXPECTATION/nfa)
 - [ ] dwb (dynamic white board; 动态白板; OpenGL & Animation; 类似 manim)
 - [ ] dfa (确定有限状态自动机)
 - [ ] Http server (HTTP 服务器)
