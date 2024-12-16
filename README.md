@@ -33,3 +33,4 @@ The following are my ongoning projects:
 - [ ] Automatic Differentiation（自动微分）
 - [ ] wisp (SSG, Static Site Generator)
 - [ ] youthos (YouthOS, Operator System)
+- [ ] bilibMusic (TBD)
