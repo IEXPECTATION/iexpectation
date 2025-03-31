@@ -4,8 +4,8 @@
 - 性别: 男
 - 年龄: 24
 - 学历: 本科
-- 专业: 软件工程
 - 毕业院校：桂林电子科技大学信息科技学院
+- 专业: 软件工程
 - Github: <https://github.com/iexpectation>
 - Email: <wuch2023@qq.com>
 - 手机/微信: +86-18154585061
@@ -14,11 +14,13 @@
 
 - [linear-regression (线性回归)](https://github.com/iexpectation/linear-regression)
 
-  本项目为开源学习项目。使用了的是 Python 编写。项目使用正态分布生成了一些随机数据。通过 numpy 提供的 ndarray，便捷地计算出权重和偏差的梯度。并更新新的权重和偏差。最后使用 matplotlib 将数据以图片的形式输出。
+  本项目使用了的是 Python 编写。项目使用正态分布生成了一些随机数据。通过 numpy 提供的 ndarray 保存数据，再使用均方误差作为误差函数，并计算出对应权重和偏差的偏导度，并根据这个偏导数更新旧的权重。让误差降到最低。同时使用了 matplotlib 输出了一些训练的截图。
+
+  从中我学习到了如何生成一组
 
 - [Raycasting (光线投射)](https://github.com/iexpectation/Raycasting)
 
-  本项目为开源学习项目。本项目利用了浏览器的 Canvas API 来渲染物体，如墙壁。主要开发语言为 Typescript。本项目实现了人物的移动，以及通过光线投射实现的障碍物渲染。
+  本项目利用了浏览器的 Canvas API 来渲染画面。通过模拟光线从眼睛发射，并在遇到障碍物时停止。从而计算出障碍物的距离。并根据距离生成对应长度的障碍物。本项目同时支持人物的移动和转向。并且还能展示地图和当前位置。
 
 ## 技能清单
 
