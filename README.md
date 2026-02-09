@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at WuXI, Jiangsu.
 - 🌱 I’m currently learning C/C++, Rust, OpenGL.
 - 📫 How to reach me: <1120644453@qq.com> | <wuchx19@gmail.com>.
-- 📢 I’m currently looking forward to a challenging job.
+- 📢 ~~I’m currently looking forward to a challenging job.~~
 
 The following are my ongoning projects:
 
